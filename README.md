@@ -1,4 +1,4 @@
-# Goods-e-procurement-system_Bid_Advertisement
+# goods-e-procurement-system_bid_advertisement
 　【和歌山県　物品電子調達システムの入札案件（公告）です。】
 
 ###（GitHubアカウント「Wakayama Prefecture」について）
